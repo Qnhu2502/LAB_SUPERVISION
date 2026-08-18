@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Machine Learning models
+*.pt
+*.pth
+*.onnx
+*.joblib
+*.pkl
+*.h5
+
+# Video
+*.mp4
+*.avi
+*.mov
+
+# Environment
+.env
+
+# Jupyter
+.ipynb_checkpoints/
