@@ -1,0 +1,19 @@
+{
+  "video": "vehicles.mp4",
+  "total_in": 2,
+  "total_out": 2,
+  "by_class": {
+    "car_in": 2,
+    "car_out": 2
+  },
+  "speed_violations": {
+    "1": 144,
+    "3": 129,
+    "2": 85,
+    "7": 179,
+    "9": 177,
+    "12": 119,
+    "13": 178,
+    "14": 171
+  }
+}
